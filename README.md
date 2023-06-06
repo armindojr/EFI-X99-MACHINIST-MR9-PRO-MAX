@@ -3,7 +3,7 @@
 <br>
 **Current OpenCore**: 0.9.2
 
-![about-this-mac]()
+![about-this-mac](https://github.com/armindojr/EFI-X99-MACHINIST-PR9-PRO-MAX/blob/ffb56cf1d91fc40a9f17f0588e6b19424eb35890/Infos/About%20This%20Mac%20-%20Overview.png)
 
 ## Complete hardware specs
 |Item|Description|
