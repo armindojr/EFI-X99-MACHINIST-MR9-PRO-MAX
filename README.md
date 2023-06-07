@@ -1,4 +1,4 @@
-# Machinist PR9 Pro Max + Intel Xeon E5-2670 v3 + RX 5600 XT 6Gb
+# Machinist MR9 Pro Max + Intel Xeon E5-2670 v3 + RX 5600 XT 6Gb
 **Latest working macOS**: 13.4 (Ventura)
 <br>
 **Current OpenCore**: 0.9.2
@@ -8,6 +8,7 @@
 ## Complete hardware specs
 |Item|Description|
 |-|:-------:|
+|MB|Machinist MR9 Pro Max|
 |CPU|Intel Xeon E5 2670 v3 (HEDT Haswell-E)|
 |Memory|16 Gb DDR4 - 1x16Gb 2133 MHz|
 |Storage|NVME Fanxiang S660 1Tb|
