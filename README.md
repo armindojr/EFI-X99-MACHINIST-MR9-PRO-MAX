@@ -3,7 +3,7 @@
 <br>
 **Current OpenCore**: 0.9.2
 
-![about-this-mac](https://github.com/armindojr/EFI-X99-MACHINIST-PR9-PRO-MAX/blob/ffb56cf1d91fc40a9f17f0588e6b19424eb35890/Infos/About%20This%20Mac%20-%20Overview.png)
+![about-this-mac](https://github.com/armindojr/EFI-X99-MACHINIST-MR9-PRO-MAX/blob/9f5124d5ebb78d8c9bb181678115d03425d8d5d0/Infos/About%20This%20Mac%20-%20Overview.png)
 
 ## Complete hardware specs
 |Item|Description|
@@ -21,16 +21,14 @@
 - Audio
 - HDMI/DP
 - All USB ports
+- All ports mapped correctly (2.0 and 3.0 with back compatibility)
 - Ethernet
 - Shutdown/Reboot
-
-## What doesn't work
-- All USB ports is mapped to 2.0
+- Temperature monitoring for cpu and gpu
+- DRM content (Widevine, Playready, Fairplay tested)
 
 ## Not tested yet
 - Everything iCloud related (Drive, iMessage, Facetime, unlock with Apple Watch, etc)
-- Temperature monitoring for everything
-- DRM content
 
 ## Kexts used:
 - AppleALC.kext - [version 1.7.5](https://github.com/acidanthera/AppleALC)
