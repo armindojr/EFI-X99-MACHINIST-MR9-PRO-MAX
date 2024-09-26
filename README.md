@@ -1,7 +1,7 @@
-# Machinist MR9 Pro Max + Intel Xeon E5-2670 v3 + RX 5600 XT 6Gb
-**Latest working macOS**: 13.4 (Ventura)
+# Machinist MR9 Pro Max + Intel Xeon E5-2670 v3 + GT 710 1Gb
+**Latest working macOS**: 14.7 (Ventura)
 <br>
-**Current OpenCore**: 0.9.2
+**Current OpenCore**: 1.0.1
 
 ![about-this-mac](https://github.com/armindojr/EFI-X99-MACHINIST-MR9-PRO-MAX/blob/9f5124d5ebb78d8c9bb181678115d03425d8d5d0/Infos/About%20This%20Mac%20-%20Overview.png)
 
@@ -10,9 +10,9 @@
 |-|:-------:|
 |MB|Machinist MR9 Pro Max|
 |CPU|Intel Xeon E5 2670 v3 (HEDT Haswell-E)|
-|Memory|16 Gb DDR4 - 1x16Gb 2133 MHz|
-|Storage|NVME Fanxiang S660 1Tb|
-|GPU|AMD Radeon RX 5600 XT 6 GB Sapphire Pulse|
+|Memory|32 Gb DDR4 - 2x16Gb 2133 MHz|
+|Storage|NVME Fanxiang S660 512Gb|
+|GPU|Inno3d NVIDIA GT710 1Gb (GK208)|
 |Ethernet|Realtek GBe Family (RTL8111)|
 |Audio|Realtek ALC897|
 
