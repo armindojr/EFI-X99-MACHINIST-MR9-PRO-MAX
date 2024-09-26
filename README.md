@@ -14,6 +14,7 @@
 |Storage|NVME Fanxiang S660 512Gb|
 |GPU|Inno3d NVIDIA GT710 1Gb (GK208)|
 |Ethernet|Realtek GBe Family (RTL8111)|
+|Wifi|Fenvi Wifi6 card|
 |Audio|Realtek ALC897|
 
 ## What works
@@ -27,17 +28,20 @@
 - Temperature monitoring for cpu and gpu
 - DRM content (Widevine, Playready, Fairplay tested)
 
+## What not works
+- Wifi
+
 ## Not tested yet
 - Everything iCloud related (Drive, iMessage, Facetime, unlock with Apple Watch, etc)
 
 ## Kexts used:
-- AppleALC.kext - [version 1.7.5](https://github.com/acidanthera/AppleALC)
-- CpuTscSync.kext - [version 1.0.9](https://github.com/acidanthera/CpuTscSync)
-- Lilu.kext - [version 1.6.5](https://github.com/acidanthera/Lilu)
-- NVMeFix.kext - [version 1.1.0](https://github.com/acidanthera/NVMeFix)
-- RealtekRTL8111.kext - [version 2.4.2](https://github.com/Mieze/RTL8111_driver_for_OS_X)
-- VirtualSMC.kext - [version 1.3.1](https://github.com/acidanthera/VirtualSMC)
-- WhateverGreen.kext - [version 1.6.4](https://github.com/acidanthera/WhateverGreen)
+- [AppleALC.kext](https://github.com/acidanthera/AppleALC)
+- [CpuTscSync.kext](https://github.com/acidanthera/CpuTscSync)
+- [Lilu.kext](https://github.com/acidanthera/Lilu)
+- [NVMeFix.kext](https://github.com/acidanthera/NVMeFix)
+- [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X)
+- [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC)
+- [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen)
 
 ## Geekbench v6 Results:
 - [GeekBench CPU](https://browser.geekbench.com/v6/cpu/1505502)
