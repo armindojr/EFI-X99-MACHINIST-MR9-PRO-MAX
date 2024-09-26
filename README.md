@@ -49,13 +49,7 @@
 - [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen)
 
-## Geekbench v6 Results:
-
-- [GeekBench CPU](https://browser.geekbench.com/v6/cpu/1505502)
-- [GeekBench Open CL](https://browser.geekbench.com/v6/compute/524582)
-- [GeekBench Metal](https://browser.geekbench.com/v6/compute/524584)
-
 ## Thanks/Credits
 
 - [Opencore Team](https://dortania.github.io/getting-started/)
-- [BASE EFI Intel Haswell-E (HEDT)](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E)
+- [BASE EFI Intel Haswell-E (HEDT)](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E-PUBLIC)
